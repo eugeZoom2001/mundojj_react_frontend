@@ -1,0 +1,27 @@
+.list .action {
+  cursor: pointer;
+}
+
+.submit-form {
+  max-width: 1200px;
+  margin-top: 50;
+  padding-top: 5rem;
+}
+
+.form-control {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: auto;
+  height: 60px;
+  text-align: center;
+}
+
+.form-row {
+  margin-top: 8rem;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+.client-form {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

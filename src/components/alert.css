@@ -1,0 +1,10 @@
+.alert {
+    padding: 20px;
+    background-color: #BFC9CA;
+    
+}
+
+.alert p {
+    margin-bottom: 10px;
+    text-align: center;
+}
